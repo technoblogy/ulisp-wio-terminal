@@ -1,5 +1,5 @@
 # uLisp for the Wio Terminal
 
-This is a provisional version of ARM uLisp 3.3b, which adds support for the Seeed Studio Wio Terminal.
+Support for the Wio Terminal has now been incorporated into the current ARM version of uLisp, so please use that instead.
 
-For more information see http://www.ulisp.com/show?38J4.
+See https://github.com/technoblogy/ulisp-arm.
